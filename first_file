@@ -1,0 +1,7 @@
+question: Do you like turnips?
+yesno: likes_turnips
+---
+quesion: When did you stop idolizing worms?
+fields:
+- Date: worm_idolozing_stop_date
+datatype: date
